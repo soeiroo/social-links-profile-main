@@ -1,18 +1,41 @@
 html {
     background-color: hsl(0, 0%, 8%);
-    max-width: 100%;
     font-size: 62,5%;
-    margin: auto;
+    max-width: 1440px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter';
+}
+
+.inter-InterVariable {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 100 900;
+    font-style: normal;
 }
 
 .wrapper {
     background-color: hsl(0, 0%, 12%);
+    display: grid;
+    place-content: center;
     text-align: center;
-    margin-left: 400px;
-    margin-right: 400px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    
+}
+
+.name {
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+}
+
+.location {
+    color: hsl(75, 94%, 57%);
+    font-weight: 600;
+}
+
+.details {
+    color: #848484;
+    font-weight: 400;
 }
 
 p {
