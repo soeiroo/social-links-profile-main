@@ -21,6 +21,7 @@ body {
     display: grid;
     place-content: center;
     text-align: center;
+    
 }
 
 .name {
@@ -42,6 +43,6 @@ p {
     font-size: 14px;
 }
 
-.pf-img {
-    
+.profile-img {
+
 }
