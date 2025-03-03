@@ -2,16 +2,16 @@
 
 Essa é uma solução para o site [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
-## Table of contents
+## Sumário
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Visão Geral](#visão-geral)
+  - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#link)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construido-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [A Desenvolver](#desolvimento-a-continuar)
 
 ## Visão Geral
 
