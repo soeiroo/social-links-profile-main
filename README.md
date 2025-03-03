@@ -27,7 +27,7 @@ Usuário devem conseguir:
 
 ### Link
 
-- Live Site URL: [Profile - Social links](https://social-links-profile-main-gamma-flame.vercel.app/m)
+- Live Site URL: [Profile - Social links](https://soeiroo.github.io/social-links-profile-main/)
 
 ## Meu processo
 
